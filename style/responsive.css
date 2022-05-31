@@ -1,0 +1,187 @@
+/* responsiveness */
+
+
+/* Navbar Responsiveness */
+@media (max-width: 280px){
+    #search-form{
+        margin-bottom: 10px;
+        margin-left: -20px;
+    }
+    #top-nav{
+        padding: 0 3%;
+    }
+}
+@media (max-width: 991px){
+    #search-form{
+        margin-bottom: 10px;
+        margin-left: -20px;
+    }
+    #top-nav{
+        padding: 0 3%;
+    }
+}
+
+
+/* Home Responsiveness */
+@media (max-width: 767px){
+    #home{
+        height: 20.7rem;
+    }
+
+    #h-txt h1{
+        /* margin-left: 2.9rem; */
+        margin-top: 3rem;
+        font-size: 2.7rem;
+        /* width: 70%; */
+    }
+    #h-txt p{
+        font-size: 1.1rem;
+        /* margin-left: 2.9rem; */
+        margin-top: 1.5rem;
+        margin-bottom: 0.2rem;
+        /* width: 70%; */
+    }
+    #h-btn1{
+        font-size: 1.1rem;
+        /* margin-left: 2.9rem; */
+        margin-top: 1.5rem;
+        margin-bottom: .5rem;
+    }
+    #h-btn2{
+        font-size: 1.1rem;
+        margin-top: 1.5rem;
+        margin-bottom: .5rem;
+    }
+    #h-img{
+        margin: 0;
+        height: 20rem;
+    }
+}
+@media (max-width: 412px){
+    #h-txt h1{
+        /* margin-left: 1rem; */
+        margin-top: 3rem;
+        font-size: 2.1rem;
+        /* width: 70%; */
+    }
+    #h-txt p{
+        font-size: 1rem;
+        /* margin-left: 1rem; */
+        margin-top: 1.3rem;
+        margin-bottom: 0.2rem;
+        /* width: 70%; */
+    }
+    #h-btn1{
+        font-size: 1.1rem;
+        /* margin-left: 1rem; */
+        margin-top: 1.3rem;
+        margin-bottom: .5rem;
+    }
+    #h-btn2{
+        font-size: 1.1rem;
+        margin-top: 1.3rem;
+        margin-bottom: .5rem;
+    }
+    #h-img{
+        margin: 0;
+        height: 20rem;
+    }
+}
+@media (max-width: 414px){
+    #h-txt h1{
+        /* margin-left: 1rem; */
+        margin-top: 3rem;
+        font-size: 2.1rem;
+        /* width: 70%; */
+    }
+    #h-txt p{
+        font-size: 1rem;
+        /* margin-left: 1rem; */
+        margin-top: 1.3rem;
+        margin-bottom: 0.2rem;
+        /* width: 70%; */
+    }
+    #h-btn1{
+        font-size: 1.1rem;
+        /* margin-left: 1rem; */
+        margin-top: 1.3rem;
+        margin-bottom: .5rem;
+    }
+    #h-btn2{
+        font-size: 1.1rem;
+        margin-top: 1.3rem;
+        margin-bottom: .5rem;
+    }
+    #h-img{
+        margin: 0;
+        height: 15rem;
+    }
+}
+
+@media (max-width: 540px){
+    #h-txt h1{
+        /* margin-left: 1rem; */
+        margin-top: 3rem;
+        font-size: 2.1rem;
+        /* width: 70%; */
+    }
+    #h-txt p{
+        font-size: 1rem;
+        /* margin-left: 1rem; */
+        margin-top: 1.3rem;
+        margin-bottom: 0.2rem;
+        /* width: 70%; */
+    }
+    #h-btn1{
+        font-size: 1.1rem;
+        /* margin-left: 1rem; */
+        margin-top: 1.3rem;
+        margin-bottom: .5rem;
+    }
+    #h-btn2{
+        font-size: 1.1rem;
+        margin-top: 1.3rem;
+        margin-bottom: .5rem;
+    }
+    #h-img{
+        margin: 0;
+        height: 15rem;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1093px){
+    #footer-s{
+        max-width: 10rem;
+    }   
+    #footer-btn{
+        padding: .9rem 1rem;
+    }
+}
+@media only screen and (min-width: 270px) and (max-width: 370px){
+    #footer-s{
+        max-width: 12rem;
+    }   
+    #footer-btn{
+        padding: .9rem 1rem;
+    }
+}
+@media only screen and (max-width: 280px){
+    #h-txt h1{
+        margin-top: 1rem;
+        font-size: 1.7rem;
+    }
+    #h-btn2{
+        font-size: 1rem;
+        margin-left: 0; 
+        margin-top: 1rem;
+        margin-bottom: 0rem; 
+    }
+    #h-btn1{
+        font-size: 1rem;
+        margin-top: 1rem;
+        margin-bottom: 0rem;
+        margin-right: 2px;
+    }
+    #home{
+        height: 20.7rem;
+    }
+}
